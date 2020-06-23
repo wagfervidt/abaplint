@@ -1,0 +1,4 @@
+abaplint:
+  image: abaplint/abaplint:latest
+  script:
+    - abaplint
